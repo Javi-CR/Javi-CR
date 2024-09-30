@@ -7,7 +7,7 @@
 ### Sobre Mí
 
 
-¡Hola! 👋 Mi nombre? Javier Romero G, Soy un futuro programador (ojalá que si...)
+¡Hola! 👋 Mi nombre? Javier Romero G,
 
 Me gusta hacer cualquier tipo de proyectos sin importar el lenguaje de programación ya que me da igual xddd no tengo preferencias en eso.
 
