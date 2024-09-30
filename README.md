@@ -13,8 +13,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Javi-CR/Javi-CR/output/snake.svg" alt="Snake animation" />
 
 ###
