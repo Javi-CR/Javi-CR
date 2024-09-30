@@ -1,4 +1,4 @@
-<div align="center">
+<div >
   <img height="100" src="https://static.planetminecraft.com/files/profile_banner/5108661_2.png"  />
 </div>
 
