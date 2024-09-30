@@ -24,16 +24,15 @@ GG!
 
 ###
 
+### Mis redes (¬_¬ )
+[![Spotify](https://img.shields.io/badge/Spotify-Playlist-green?logo=spotify)](https://open.spotify.com/playlist/4Z3oJoBIRP2DWHaNylkRo2?utm_source=generator)     [![Epic Games](https://img.shields.io/badge/Epic%20Games-Javi.cr.-blue?logo=epicgames)](https://www.epicgames.com)
+
+###
+
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 <br><br>
 </div>
-
-
-###
-
-### Mis redes (¬_¬ )
-[![Spotify](https://img.shields.io/badge/Spotify-Playlist-green?logo=spotify)](https://open.spotify.com/playlist/4Z3oJoBIRP2DWHaNylkRo2?utm_source=generator)     [![Epic Games](https://img.shields.io/badge/Epic%20Games-Javi.cr.-blue?logo=epicgames)](https://www.epicgames.com)
 
 
 ###
