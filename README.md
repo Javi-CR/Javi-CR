@@ -14,7 +14,8 @@
 ###
 
 ### Escucha mi playlist en Spotify
-[![Spotify](https://img.shields.io/badge/Spotify-Playlist-green?logo=spotify)](https://open.spotify.com/playlist/4Z3oJoBIRP2DWHaNylkRo2?utm_source=generator)
+[Escucha mi playlist aquí](https://open.spotify.com/playlist/4Z3oJoBIRP2DWHaNylkRo2?utm_source=generator)
+
 
 
 ###
