@@ -7,17 +7,17 @@
 ### Sobre Mí
 
 
-¡Hola! 👋 Mi nombre? Javier Romero G.
+¡Hola! 👋 Mi nombre es Javier Romero G.
 
-Me gusta hacer cualquier tipo de proyectos sin importar el lenguaje de programación ya que me da igual xddd no tengo preferencias en eso.
+Me gusta hacer cualquier tipo de proyectos, sin importar el lenguaje de programación, ya que me da igual xddd. No tengo preferencias en eso.
 
-A lo largo de mi carrera, he trabajado en proyectos con varios lenguajes que eh aprendido como Java, Asp.net Core, PHP, Python, etc. 
+A lo largo de mi carrera, he trabajado en proyectos con varios lenguajes que he aprendido, como Java, ASP.NET Core, PHP, Python, etc.
 
 Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades, así como colaborar con otros en proyectos emocionantes.
 
-Fuera de la programación, disfruto pasarla bien con algunos amigos que tengo, lo que me ayuda a mantener un equilibrio en mi vida.
+Fuera de la programación, disfruto pasarla bien con algunos amigos, lo que me ayuda a mantener un equilibrio en mi vida.
 
-En fin solo quería decorar este perfil...
+En fin, solo quería decorar este perfil...
 
 GG!
 
