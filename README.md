@@ -32,7 +32,7 @@ GG!
 
 ### Mis redes (¬_¬ )
 [![Spotify](https://img.shields.io/badge/Spotify-Playlist-green?logo=spotify)](https://open.spotify.com/playlist/4Z3oJoBIRP2DWHaNylkRo2?utm_source=generator)
-[![Epic Games](https://img.shields.io/badge/Epic%20Games-Username-blue?logo=epicgames)](https://www.epicgames.com/account/Javi.cr.)
+[![Epic Games](https://img.shields.io/badge/Epic%20Games-Username-blue?logo=epicgames)](Javi.cr.)
 
 
 
