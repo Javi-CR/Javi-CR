@@ -39,3 +39,6 @@ GG!
 
 ###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Javi-CR&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<a href="https://www.planetminecraft.com/skin/xd-6282107/" title="(¬_¬ ) Minecraft Skin"><br /><img src="https://static.planetminecraft.com/files/resource_media/preview/f464a069de8a4126-17810580-minecraft-skin.jpg" alt="(¬_¬ )" border="0"/><br/>(¬_¬ )</a> by <a href="https://www.planetminecraft.com/member/javi3504/" title="Javi3504 Profile">Javi3504</a>
