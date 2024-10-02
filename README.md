@@ -38,4 +38,4 @@ GG!
 
 
 ###
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Javi-CR&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Javi-CR&theme=Default (cotton candy))](https://github.com/ashutosh00710/github-readme-activity-graph)
