@@ -29,7 +29,7 @@ GG!
 ###
 
 ### Mis redes (¬_¬ )
-[![Spotify](https://img.shields.io/badge/Spotify-Perfil-green?logo=spotify)](https://open.spotify.com/user/31qe6s37ww3pezw4iukyvsaw7cs4?si=9f7cf61bbe46460b)     [![Epic Games](https://img.shields.io/badge/Epic%20Games-Knekou-blue?logo=epicgames)](https://www.epicgames.com)
+[![Spotify](https://img.shields.io/badge/Spotify-Perfil-green?logo=spotify)](https://open.spotify.com/user/31qe6s37ww3pezw4iukyvsaw7cs4?si=9f7cf61bbe46460b)     [![Epic Games](https://img.shields.io/badge/Epic%20Games-Javi.kn-blue?logo=epicgames)](https://www.epicgames.com)
 
 ###
 
